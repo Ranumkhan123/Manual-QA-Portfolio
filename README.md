@@ -20,3 +20,16 @@ What’s Inside?
 🏦 Demo Bank App – Banking transactions & account management
 
 📑 OrangeHRM – HR management system
+
+#
+Tools:
+
+MS Excel - for writing Test Cases
+
+MS Word - for writing Test Plan and Bug report
+
+JIRA - for bug reporting, issue tracking and project management 
+
+Test Rail (https://www.testrail.com/) - For writing and executing test cases
+
+
