@@ -28,5 +28,5 @@ This repository contains test cases and reports for different applications.
 
 
 ## 📧 Contact Me  
-If you have any questions or feedback, feel free to reach out via **GitHub Issues** or connect with me on **LinkedIn** (/in/ranum-khan-qaengineer/).  
+If you have any questions or feedback, feel free to reach out via **GitHub Issues** or connect with me on **LinkedIn** (in/ranum-khan-qaengineer/).  
 
